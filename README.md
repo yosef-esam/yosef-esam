@@ -11,12 +11,17 @@
 
 
 <h3>🚀 About Me</h3> 
-- 🏢 I’m currently training in ITI in Front-end & Cross Platform Mobile Development Track.
-- 💬 Ask me about my experience with JavaScript, and ReactJS, or anything related to Front-end web development.
-- 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
-- 🌱 I’m currently working on React Projects.
-- 👯 I’m looking to collaborate with many developer to work in different projects.  
-<br/>
+- 🔭 I’m currently working on **Portfolio for me**
+
+- 🌱 I’m currently practicing on **JavaScript then learning Node.js**
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 👨‍💻 All of my projects are available at [I am still working on it](I am still working on it)
+
+- 📫 How to reach me **mahmoud15921592@gmail.com**
+
+- ⚡ Fun fact **They said Taller People Make More Money**
 
 	
 
