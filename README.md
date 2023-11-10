@@ -8,21 +8,13 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media4.giphy.com/media/9D7JJAsoOxH1vajS6b/giphy.gif?cid=ecf05e479xot6euzlldn776kf4doyupwku41m7z30uyifi4s&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="190" height="340">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+
 
 
 <h3>🚀 About Me</h3> 
-- 🔭 I’m currently working on **Portfolio for me**
 
-- 🌱 I’m currently practicing on **JavaScript then learning Node.js**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [I am still working on it](I am still working on it)
-
-- 📫 How to reach me **mahmoud15921592@gmail.com**
-
-- ⚡ Fun fact **They said Taller People Make More Money**
+<h4> I'm yosef esam from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
 
 	
 
