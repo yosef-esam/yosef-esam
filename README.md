@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=+{لا أبرح حتى أبلغ}" style="color:black" />
 </p>
 <br/>
-
+<br/>
 
 <img align="right" src="https://media4.giphy.com/media/9D7JJAsoOxH1vajS6b/giphy.gif?cid=ecf05e479xot6euzlldn776kf4doyupwku41m7z30uyifi4s&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="190" height="340">
 
@@ -16,8 +16,8 @@
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 - 🌱 I’m currently working on React Projects.
 - 👯 I’m looking to collaborate with many developer to work in different projects.  
-
 <br/>
+
 	
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
