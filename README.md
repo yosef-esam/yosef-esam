@@ -11,7 +11,11 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4> I'm yosef esam from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
+<h4> - 🏢 I’m currently training in ITI in Front-end & Cross Platform Mobile Development Track.
+- 💬 Ask me about my experience with JavaScript, and ReactJS, or anything related to Front-end web development.
+- 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
+- 🌱 I’m currently working on React Projects.
+- 👯 I’m looking to collaborate with many developer to work in different projects.  </h4>
 
 
 	
