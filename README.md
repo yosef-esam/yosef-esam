@@ -14,7 +14,23 @@
 
 <h3>🚀 About Me</h3> 
 
-<h4> I'm yosef esam from Egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm junior web developer and learning increasingly. </h4>
+<h4> Hey there, I'm Yousef! 👋
+
+I’m a MERN Stack Developer with a passion for building full-stack web applications using modern technologies. I specialize in MongoDB, Express.js, React.js, and Node.js (MERN) to create scalable, efficient, and user-friendly applications.
+
+I graduated with a Bachelor’s degree in Computer Science, following my diploma from ElMadrasa, where I built a strong foundation in programming and technology. With over a year of hands-on experience in developing projects and freelancing, I’ve gained expertise in full-stack development, API integration, and cloud deployment.
+
+🚀 What I bring to the table:
+✔️ Full-Stack Development – Building scalable and efficient applications using the MERN stack
+✔️ Frontend Expertise – Crafting responsive, user-friendly UI with React & Tailwind CSS
+✔️ Backend Development – Designing RESTful APIs and handling authentication with Node.js & Express
+✔️ Database Management – Working with MongoDB for optimized data storage
+✔️ Deployment & DevOps – Deploying applications on Render, Vercel, and other cloud platforms
+✔️ Problem-Solving & Collaboration – Delivering high-quality, tailored solutions to clients
+
+With a strong passion for innovation and continuous learning, I’m always looking to contribute to impactful projects and stay ahead in the fast-evolving tech industry.
+
+Let’s connect! 🤝. </h4>
 
 	
 
